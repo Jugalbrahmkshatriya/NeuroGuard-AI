@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- Jugal's Research Protection (CRITICAL) ---
+data/
+weights/
+models/*.pt
+models/*.pth
+*.nii.gz
+*.nii
+*.zip
+*.rar
+*.exe
